@@ -1,3 +1,29 @@
+# up
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A bilingual lifelong-learning guide for the AI era, covering AI, learning, entrepreneurship, wealth, love and life.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+韩先凯的人生进阶指南：AI 时代中英双语终身学习指南，涵盖 AI、学习、创业、财富、爱情与人生。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # 人生进阶指南
 
 中文 | [English](docs/en/README.md)
